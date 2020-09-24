@@ -1,4 +1,4 @@
-![]{https://miro.medium.com/max/2994/1*Q_6ec5gt2qN07ftfLY1Yvg.png}
+![](https://miro.medium.com/max/2994/1*Q_6ec5gt2qN07ftfLY1Yvg.png)
 
 # Attendance-taker
 
