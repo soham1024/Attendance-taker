@@ -11,7 +11,7 @@ Here I am working on Face recognition based Attendance Management System by usin
 
 How it works :
 
->When we run "train.py" a window is opened and ask for Enter Id and Enter Name. 
+>Run "train.py" a window is opened and ask for Enter Id and Enter Name. 
 
 >Enter name and id then we have to click "Take Images" button. 
 
